@@ -7,10 +7,12 @@
 ## 📱 Démonstration Vidéo
 
 > [!IMPORTANT]  
-> **[CLIQUEZ ICI POUR VOIR LA VIDÉO DE DÉMONSTRATION](URL_DE_VOTRE_VIDEO_SUR_YOUTUBE_OU_DRIVE)**  
-> *(Ou remplacez cette ligne par l'insertion de votre GIF ci-dessous)*
+> **[CLIQUEZ ICI POUR VOIR LA VIDÉO DE DÉMONSTRATION]
+> 
 
-![Démo StarGallery](https://via.placeholder.com/300x600?text=Placez+votre+GIF+ici)
+
+https://github.com/user-attachments/assets/71f7e577-c2a6-473f-9e94-2e9c3fd9fbc2
+
 
 ---
 
